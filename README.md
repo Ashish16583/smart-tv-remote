@@ -1,3 +1,2 @@
-# smart-tv-remote
-smart-tv-remote
+openai
 flask
